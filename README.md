@@ -1,5 +1,6 @@
 # Projeto de Comparação de Redes Neurais
 Este projeto tem como objetivo comparar o desempenho de diferentes algoritmos de aprendizado de máquina na classificação de notícias. 
+Projeto feito para obtenção de nota na matéria de Inteligência Artificial, do curso de Ciência da Computação, 5° Período, Goiânia-GO.
 
 # Algoritmos utilizados:
 - GaussianNB,
