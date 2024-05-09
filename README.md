@@ -16,7 +16,7 @@ Este projeto tem como objetivo comparar o desempenho de diferentes algoritmos de
 - QDA.
 
 # Pré-requisitos
-Antes de executar este projeto, é necessário rodar o código de criação do JSON de treinamento da APS.
+Antes de executar este projeto, é necessário rodar o código de criação do JSON de treinamento.
 
 # Como executar
 - Clone este repositório.
